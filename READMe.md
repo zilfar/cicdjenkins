@@ -1,4 +1,4 @@
-# Ledt's build a Continuous Integration and Continuous Delivery/Deployment (CICD) Pipeline
+# Leddt's build a Continuous Integration and Continuous Delivery/Deployment (CICD) Pipeline
 ## Jenkins
 ### Webhooks with Git-hub
 #### Automated Testing using Jenkins
