@@ -1,4 +1,4 @@
-# Lfeddt's build a Continuous Integration and Continuous Delivery/Deployment (CICD) Pipeline
+# Let's build a Continuous Integration and Continuous Delivery/Deployment (CICD) Pipeline
 ## Jenkins
 ### Webhooks with Git-hub
 #### Automated Testing using Jenkins
