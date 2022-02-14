@@ -3,7 +3,7 @@
 ### Webhooks with Git-hub
 #### Automated Testing using Jenkins
 #### Automated Deployment on AWS EC2 for 2Tier architecture - Nodejs app and Mongodb  
-- test CI x1
+- test CII x1
 
 - Jenkins Workflow
   
