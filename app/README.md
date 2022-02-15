@@ -1,4 +1,4 @@
-## Sparta Node Sample App
+## BSparta Node Sample App
 
 ## Description
 
